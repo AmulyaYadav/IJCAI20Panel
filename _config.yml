@@ -2,7 +2,7 @@ title: The IJCAI 2020 Panel on AI for COVID-19
 description: > # this means to ignore newlines until "baseurl:"
   This website contains the position statements of all the panelists who will be participating in the IJCAI 2020 Panel on AI for COVID-19.
 permalink: ':title/'
-baseurl: "/main" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
